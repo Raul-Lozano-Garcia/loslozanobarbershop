@@ -556,11 +556,7 @@ footer ul{
   font-size: 1.2em;
 }
 
-footer a{
-  color: var(--principal-claro);
-}
-
-footer ul li a:hover, footer .social li:hover{
+footer li:hover{
   color:white;
   cursor: pointer;
 }
