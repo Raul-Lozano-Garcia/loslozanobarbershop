@@ -472,11 +472,11 @@ section#horario li{
 
 #opiniones>div>div{
   grid-area: img;
-}
-
-#opiniones>div img{
   border-radius: 50%;
   border: 2px solid white;
+  background: url("../assets/imagenes/cliente.jpg") no-repeat center center/cover;
+  width: 150px;
+  height: 150px;
 }
 
 #opiniones>div .izq{
